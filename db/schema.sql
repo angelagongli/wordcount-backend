@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS paper_db;
+CREATE DATABASE paper_db;
